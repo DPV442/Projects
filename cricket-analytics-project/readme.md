@@ -44,7 +44,7 @@ Includes calculated columns, measures, and aggregated metrics.
 
 🛠️ HOW TO USE THE PROJECT 1️⃣ Data Processing 🔹 Run t20_data_preprocessing.ipynb in Jupyter Notebook to clean and format data. 🔹 Ensure CSV/JSON files are correctly placed in respective folders.
 
-2️⃣ Power BI Dashboard 🔹 Open Codebasics Cricket Best 11.pbix in Power BI Desktop. 🔹 Use filters and slicers for customized analysis.
+2️⃣ Power BI Dashboard 🔹 Open Cricket Best 11.pbix in Power BI Desktop. 🔹 Use filters and slicers for customized analysis.
 
 3️⃣ Custom Analysis & Queries 🔹 Use DAX Measures and Calculated Columns.xlsx for Power BI calculations. 🔹 Modify Python scripts in web_scrapping_codes/ for live data extraction.
 
